@@ -1,2 +1,2 @@
 # starfield
-how many  many dots my mbp can sustains ?
+how many dots my mbp can sustains ?
